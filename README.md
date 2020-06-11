@@ -1,2 +1,4 @@
-# tree_golang
+# Tree CLI utility
 Tree utility written in Go
+
+# Usage
